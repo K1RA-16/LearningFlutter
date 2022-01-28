@@ -6,16 +6,16 @@ import 'package:test_project/main.dart';
 class Homepage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-  return Scaffold(
-    appBar: AppBar(
-      title: const Text("catalog app"),
-    ),
-        body: Center(
-          child: Container(
-            child: Text("welcome $x"),
-          ),
+    return Scaffold(
+      appBar: AppBar(
+        title: const Text("catalog app"),
+      ),
+      body: Center(
+        child: Container(
+          child: Text("welcome $x"),
         ),
-        drawer: const Drawer(),
+      ),
+      drawer: const Drawer(),
     );
   }
-} 
+}
