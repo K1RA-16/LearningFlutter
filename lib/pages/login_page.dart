@@ -40,6 +40,7 @@ class _LoginPageState extends State<LoginPage> {
                   "Login",
                   style: TextStyle(
                     fontSize: 22,
+                    fontWeight: FontWeight.bold,
                   ),
                 ),
               ),
@@ -57,6 +58,7 @@ class _LoginPageState extends State<LoginPage> {
                 "Welcome $name",
                 style: TextStyle(
                   fontSize: 22,
+                  fontWeight: FontWeight.bold,
                 ),
               ),
               Padding(
@@ -110,7 +112,7 @@ class _LoginPageState extends State<LoginPage> {
                   height: 50,
                   alignment: Alignment.center,
                   decoration: BoxDecoration(
-                    color: Colors.deepPurple,
+                    color: Colors.amber,
                     borderRadius: BorderRadius.circular(changeButton ? 50 : 8),
                   ),
                   child: changeButton
@@ -122,6 +124,7 @@ class _LoginPageState extends State<LoginPage> {
                           "Login",
                           style: TextStyle(
                             color: Colors.white,
+                            fontWeight: FontWeight.bold,
                             fontSize: 18,
                           ),
                         ),
