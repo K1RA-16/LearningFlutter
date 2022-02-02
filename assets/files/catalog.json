@@ -4,35 +4,28 @@
       "id": 1,
       "name": "Iphone x",
       "price": 999,
-      "image": "https://img2.gadgetsnow.com/gd/images/products/additional/small/G33301_View_1/mobiles/smartphones/apple-iphone-x-64gb-silver-.jpg",
+      "image": "https://www.freeiconspng.com/uploads/apple-iphone-x-pictures-5.png",
       "desc": "Apple Iphone x 64 g"
     },
     {
       "id": 2,
       "name": "Iphone 11",
       "price": 799,
-      "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-card-40-iphone-11-202108?wid=800&hei=1000&fmt=p-jpg&qlt=95&.v=1628098906000",
+      "image": "https://www.pngmart.com/files/15/Apple-iPhone-11-PNG-Transparent-HD-Photo.png",
       "desc": "Apple Iphone 11 64 gb"
     },
     {
       "id": 3,
       "name": "Iphone 12",
       "price": 799,
-      "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-card-40-iphone12purple-202109?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1629948811000",
+      "image": "https://www.pngmart.com/files/15/Apple-iPhone-12-PNG-Image.png",
       "desc": "Apple Iphone 12 128 gb"
     },
     {
       "id": 4,
-      "name": "Iphone 12 pro",
-      "price": 1200,
-      "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-card-40-iphone13problue-202109?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1629948813000",
-      "desc": "Apple Iphone 12 pro 128 gb"
-    },
-    {
-      "id": 5,
       "name": "Iphone 13",
       "price": 1200,
-      "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-card-40-iphone13pink-202109?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1629948812000",
+      "image": "https://www.pngmart.com/files/15/Apple-iPhone-12-PNG-File.png",
       "desc": "Apple Iphone 13 pro 256 gb"
     }
   ]
